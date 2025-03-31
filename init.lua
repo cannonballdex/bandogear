@@ -3,7 +3,7 @@
 --]]
 ---@type Mq
 local mq = require('mq')
-local LIP = require('lib.LIP')
+local LIP = require('LIP')
 local ICONS = require('mq.Icons')
 local args = {'BandoGear.ini'}
 local settings = {}
